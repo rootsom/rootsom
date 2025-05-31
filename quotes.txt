@@ -3,3 +3,103 @@
 “Amateurs hack systems, professionals hack people.” — Bruce Schneier
 “Cybersecurity is much more than a matter of IT.” — Stephane Nappo
 "The quieter you become, the more you are able to hear." — Ram Dass
+"Security is not a product, but a process." – Bruce Schneier
+
+"There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller
+
+"Hacking is the art of exploitation." – Anonymous
+
+"The quieter you become, the more you are able to hear." – Rumi (also popular among hackers)
+
+"If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology." – Bruce Schneier
+
+"The hacker mindset doesn’t actually see what’s on the screen. They see the possibility." – Chris Hadnagy
+
+"Cybersecurity is much more than a matter of IT." – Stephane Nappo
+
+"To err is human, but to really foul things up requires a computer." – Paul R. Ehrlich
+
+"The best defense is a good offense." – Unknown
+
+"Hackers are the immune system of the internet." – Unknown
+
+"Encryption works. Properly implemented strong crypto systems are one of the few things that you can rely on." – Edward Snowden
+
+"Don’t learn to hack, hack to learn." – Anonymous
+
+"You can't defend. You can't prevent. The only thing you can do is detect and respond." – Bruce Schneier
+
+"Hacking is not a crime; it’s a skill." – Anonymous
+
+"The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." – Stephen Hawking
+
+"Security used to be an inconvenience sometimes, but now it’s a necessity all the time." – Martina Navratilova
+
+"In the world of cybersecurity, every lock has a key, and every key has a door." – Unknown
+
+"Attackers don’t break in; they log in." – Unknown
+
+"If you want to be a hacker, you have to think like a hacker." – Kevin Mitnick
+
+"Privacy is not an option, and it shouldn’t be the price we accept for just getting on the internet." – Gary Kovacs
+
+"White hat, black hat, all that matters is that you’re constantly learning." – Unknown
+
+"The purpose of hacking is to understand systems better, not to destroy them." – Anonymous
+
+"Cybersecurity is a journey, not a destination." – Unknown
+
+"The more you sweat in peace, the less you bleed in war." – Norman Schwarzkopf
+
+"Vulnerabilities are like weeds, if you don’t fix them, they’ll take over your garden." – Unknown
+
+"The difference between a hacker and a cracker is the intent behind the code." – Unknown
+
+"A chain is only as strong as its weakest link." – Proverb (often cited in security)
+
+"To defend a system is to understand it." – Unknown
+
+"One man’s vulnerability is another man’s opportunity." – Unknown
+
+"Hacking involves thinking outside the box and pushing boundaries." – Anonymous
+
+"Security isn’t about eliminating risk, it’s about managing it." – Unknown
+
+"The more you protect, the more you expose." – Unknown
+
+"Hackers don’t break laws, they break code." – Anonymous
+
+"Cybersecurity is not about keeping bad people out, it’s about knowing when they are in." – Unknown
+
+"Hackers are artists who paint with bits and bytes." – Unknown
+
+"If you fail to plan, you plan to fail." – Benjamin Franklin (often cited in security)
+
+"The best hacks come from curiosity and passion." – Unknown
+
+"Trust but verify." – Ronald Reagan (applies strongly in cybersecurity)
+
+"The more connected we are, the more vulnerable we become." – Unknown
+
+"Behind every great hacker is a great debugger." – Unknown
+
+"The ultimate goal of hacking is knowledge, not destruction." – Unknown
+
+"Security is a state of mind." – Unknown
+
+"The internet is the wild west of the 21st century." – Unknown
+
+"There is no patch for human stupidity." – Unknown
+
+"A good hacker knows what to exploit, a great hacker knows why." – Unknown
+
+"Security flaws are like open windows, they invite trouble." – Unknown
+
+"Hackers build, hackers break, hackers learn." – Unknown
+
+"The art of hacking is the art of solving puzzles." – Unknown
+
+"In cybersecurity, there are no heroes, only survivors." – Unknown
+
+"Knowledge is power, and power must be guarded." – Unknown
+
