@@ -97,6 +97,13 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 ---
 
+### 🧠 Daily Cyber Quote
+
+<!-- START:QUOTE -->
+> Placeholder quote until updated.
+<!-- END:QUOTE -->
+
+
 <details>
   <summary>📊 GitHub Stats</summary>
 
