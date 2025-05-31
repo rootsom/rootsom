@@ -93,7 +93,7 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 ### 🔥 Quote to Hack By
 <!-- START:QUOTE -->
-> “Practice to exploit. Exploit to learn. Learn to secure.”
+
 > — rootsom
 > <!-- END:QUOTE -->
 
