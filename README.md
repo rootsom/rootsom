@@ -92,10 +92,6 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 ---
 
 ### 🔥 Quote to Hack By
-<!-- START:QUOTE -->
-
-> — rootsom
-> <!-- END:QUOTE -->
 
 ---
 
@@ -110,3 +106,6 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
   </p>
 
 </details>
+<!-- START:QUOTE -->
+> 
+<!-- END:QUOTE -->
