@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "A good hacker knows what to exploit, a great hacker knows why." – Unknown
+> 
 <!-- END:QUOTE -->
