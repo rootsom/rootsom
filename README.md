@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "Hackers don’t break laws, they break code." – Anonymous
+> 
 <!-- END:QUOTE -->
