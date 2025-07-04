@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> 
+> "If you want to be a hacker, you have to think like a hacker." – Kevin Mitnick
 <!-- END:QUOTE -->
