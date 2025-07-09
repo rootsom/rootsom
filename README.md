@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "Attackers don’t break in; they log in." – Unknown
+> "Security flaws are like open windows, they invite trouble." – Unknown
 <!-- END:QUOTE -->
