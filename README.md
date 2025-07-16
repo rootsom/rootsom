@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "If you fail to plan, you plan to fail." – Benjamin Franklin (often cited in security)
+> "If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology." – Bruce Schneier
 <!-- END:QUOTE -->
