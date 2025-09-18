@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "Don’t learn to hack, hack to learn." – Anonymous
+> "A chain is only as strong as its weakest link." – Proverb (often cited in security)
 <!-- END:QUOTE -->
