@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "White hat, black hat, all that matters is that you’re constantly learning." – Unknown
+> "Hacking is the art of exploitation." – Anonymous
 <!-- END:QUOTE -->
