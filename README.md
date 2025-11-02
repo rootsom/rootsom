@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "The hacker mindset doesn’t actually see what’s on the screen. They see the possibility." – Chris Hadnagy
+> "To defend a system is to understand it." – Unknown
 <!-- END:QUOTE -->
