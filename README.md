@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> “Hack the planet!” — Hackers (1995)
+> 
 <!-- END:QUOTE -->
