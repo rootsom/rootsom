@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "Security is not a product, but a process." – Bruce Schneier
+> "In the world of cybersecurity, every lock has a key, and every key has a door." – Unknown
 <!-- END:QUOTE -->
