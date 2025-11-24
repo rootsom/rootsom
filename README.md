@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "The internet is the wild west of the 21st century." – Unknown
+> “Amateurs hack systems, professionals hack people.” — Bruce Schneier
 <!-- END:QUOTE -->
