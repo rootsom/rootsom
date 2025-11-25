@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> “Amateurs hack systems, professionals hack people.” — Bruce Schneier
+> “Cybersecurity is much more than a matter of IT.” — Stephane Nappo
 <!-- END:QUOTE -->
