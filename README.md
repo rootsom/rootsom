@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "The best defense is a good offense." – Unknown
+> "White hat, black hat, all that matters is that you’re constantly learning." – Unknown
 <!-- END:QUOTE -->
