@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "Attackers don’t break in; they log in." – Unknown
+> "The hacker mindset doesn’t actually see what’s on the screen. They see the possibility." – Chris Hadnagy
 <!-- END:QUOTE -->
