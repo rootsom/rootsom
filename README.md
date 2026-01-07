@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "There are only two types of companies: those that have been hacked, and those that will be." – Robert Mueller
+> "Hacking involves thinking outside the box and pushing boundaries." – Anonymous
 <!-- END:QUOTE -->
