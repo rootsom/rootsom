@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "The more connected we are, the more vulnerable we become." – Unknown
+> "Cybersecurity is a journey, not a destination." – Unknown
 <!-- END:QUOTE -->
