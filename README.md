@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "The best hacks come from curiosity and passion." – Unknown
+> 
 <!-- END:QUOTE -->
