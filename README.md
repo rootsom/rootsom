@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "Hacking is not a crime; it’s a skill." – Anonymous
+> "To defend a system is to understand it." – Unknown
 <!-- END:QUOTE -->
