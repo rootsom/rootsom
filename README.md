@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "The quieter you become, the more you are able to hear." – Rumi (also popular among hackers)
+> "Vulnerabilities are like weeds, if you don’t fix them, they’ll take over your garden." – Unknown
 <!-- END:QUOTE -->
