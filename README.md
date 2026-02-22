@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> 
+> "Cybersecurity is not about keeping bad people out, it’s about knowing when they are in." – Unknown
 <!-- END:QUOTE -->
