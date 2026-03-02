@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "A chain is only as strong as its weakest link." – Proverb (often cited in security)
+> "Vulnerabilities are like weeds, if you don’t fix them, they’ll take over your garden." – Unknown
 <!-- END:QUOTE -->
