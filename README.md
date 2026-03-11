@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "The more connected we are, the more vulnerable we become." – Unknown
+> "Privacy is not an option, and it shouldn’t be the price we accept for just getting on the internet." – Gary Kovacs
 <!-- END:QUOTE -->
