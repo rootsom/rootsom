@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "Security is a state of mind." – Unknown
+> "A chain is only as strong as its weakest link." – Proverb (often cited in security)
 <!-- END:QUOTE -->
