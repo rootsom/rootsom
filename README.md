@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "In cybersecurity, there are no heroes, only survivors." – Unknown
+> "The art of hacking is the art of solving puzzles." – Unknown
 <!-- END:QUOTE -->
