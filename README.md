@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "The quieter you become, the more you are able to hear." – Rumi (also popular among hackers)
+> "To err is human, but to really foul things up requires a computer." – Paul R. Ehrlich
 <!-- END:QUOTE -->
