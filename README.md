@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "Security flaws are like open windows, they invite trouble." – Unknown
+> "Encryption works. Properly implemented strong crypto systems are one of the few things that you can rely on." – Edward Snowden
 <!-- END:QUOTE -->
