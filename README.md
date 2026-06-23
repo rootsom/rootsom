@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> 
+> "The more you sweat in peace, the less you bleed in war." – Norman Schwarzkopf
 <!-- END:QUOTE -->
