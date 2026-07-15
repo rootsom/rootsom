@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "Hacking involves thinking outside the box and pushing boundaries." – Anonymous
+> "The difference between a hacker and a cracker is the intent behind the code." – Unknown
 <!-- END:QUOTE -->
