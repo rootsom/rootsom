@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "The difference between a hacker and a cracker is the intent behind the code." – Unknown
+> "The more connected we are, the more vulnerable we become." – Unknown
 <!-- END:QUOTE -->
