@@ -107,5 +107,5 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 </details>
 <!-- START:QUOTE -->
-> "You can't defend. You can't prevent. The only thing you can do is detect and respond." – Bruce Schneier
+> 
 <!-- END:QUOTE -->
