@@ -27,7 +27,7 @@
 ### 👋 Init sequence
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=750&multiline=true&lines=root%40som+%3A~%23+id;uid%3D0(root)+gid%3D0(root)+groups%3D0(root);%5B%2B%5D+6%2B+years+breaking+things+for+a+living;%5B%2B%5D+specializing+in+offense%2C+not+apologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=750&height=140&multiline=true&lines=root%40som+%3A~%23+id;uid%3D0(root)+gid%3D0(root)+groups%3D0(root);%5B%2B%5D+6%2B+years+breaking+things+for+a+living;%5B%2B%5D+specializing+in+offense%2C+not+apologies" alt="Typing SVG" />
 </p>
 
 I build **interactive breach ranges**, weaponized automation, and tooling that mirrors how real intrusions actually happen — not the sanitized textbook version. If it has a login form, an open port, or a false sense of security, it's fair game.
