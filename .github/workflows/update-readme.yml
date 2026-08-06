@@ -1,17 +1,18 @@
 name: 🧠 Daily Quote Updater
-
 on:
   schedule:
     - cron: "0 6 * * *"  # ⏰ Runs daily at 6 AM UTC
   workflow_dispatch:      # 🔄 Allows manual run from GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
     - name: 📂 Checkout repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: 🔀 Get random quote
       run: |
@@ -20,13 +21,13 @@ jobs:
 
     - name: 📝 Update README
       run: |
-        awk '/<!-- START:QUOTE -->/,/<!-- END:QUOTE -->/ { next } { print }' README.md > temp.md
-        echo "<!-- START:QUOTE -->" >> temp.md
-        echo "> ${QUOTE}" >> temp.md
-        echo "<!-- END:QUOTE -->" >> temp.md
-        mv temp.md README.md
+        awk -v q="$QUOTE" '
+          /<!-- START:QUOTE -->/ {print; print "> " q; skip=1; next}
+          /<!-- END:QUOTE -->/ {skip=0}
+          !skip {print}
+        ' README.md > temp.md && mv temp.md README.md
 
     - name: ✅ Commit changes
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: "🧠 daily quote update"
