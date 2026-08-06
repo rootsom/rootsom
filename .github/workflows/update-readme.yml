@@ -5,29 +5,37 @@ on:
   workflow_dispatch:      # 🔄 Allows manual run from GitHub UI
 
 permissions:
-  contents: write
+  contents: write         # ✅ required or the auto-commit push is silently rejected
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-    - name: 📂 Checkout repo
-      uses: actions/checkout@v4
+      - name: 📂 Checkout repo
+        uses: actions/checkout@v4
 
-    - name: 🔀 Get random quote
-      run: |
-        quote=$(shuf -n 1 quotes.txt)
-        echo "QUOTE=${quote}" >> $GITHUB_ENV
+      - name: 🔀 Get random quote
+        run: |
+          if [ -s quotes.txt ]; then
+            quote=$(shuf -n 1 quotes.txt)
+          else
+            quote="Stay curious. Stay dangerous."
+          fi
+          # URL-encode safely via Python (handles quotes, &, %, emoji, etc.)
+          encoded=$(python3 -c "import urllib.parse, sys; print(urllib.parse.quote(sys.argv[1]))" "$quote")
+          echo "QUOTE=${quote}" >> "$GITHUB_ENV"
+          echo "QUOTE_ENCODED=${encoded}" >> "$GITHUB_ENV"
 
-    - name: 📝 Update README
-      run: |
-        awk -v q="$QUOTE" '
-          /<!-- START:QUOTE -->/ {print; print "> " q; skip=1; next}
-          /<!-- END:QUOTE -->/ {skip=0}
-          !skip {print}
-        ' README.md > temp.md && mv temp.md README.md
+      - name: 📝 Update README
+        run: |
+          TYPING_URL="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=39FF14&center=true&vCenter=true&width=800&lines=${QUOTE_ENCODED}"
+          awk -v url="$TYPING_URL" '
+            /<!-- START:QUOTE -->/ {print; print "<p align=\"center\"><img src=\"" url "\" alt=\"Daily Quote\" /></p>"; skip=1; next}
+            /<!-- END:QUOTE -->/ {skip=0}
+            !skip {print}
+          ' README.md > temp.md && mv temp.md README.md
 
-    - name: ✅ Commit changes
-      uses: stefanzweifel/git-auto-commit-action@v5
-      with:
-        commit_message: "🧠 daily quote update"
+      - name: ✅ Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🧠 daily quote update"
