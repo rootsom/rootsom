@@ -20,13 +20,17 @@
   <img src="https://img.shields.io/badge/CTF%20Builder-Labs%20%26%20Writeups-9cf?style=for-the-badge&logo=ghost&logoColor=white"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=90&section=header&animation=fadeIn" width="100%" alt="divider"/>
+</p>
 
 ### 👋 Welcome
 
 I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years of real-world experience** in offensive security. I specialize in creating **interactive hacking labs**, automation scripts, and tools that mirror real-world attacks.
 
-> 🧠 Learn | 🛠️ Build | 🕵️ Exploit | 🔐 Secure
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=%F0%9F%A7%A0+Learn+%7C+%F0%9F%9B%A0%EF%B8%8F+Build+%7C+%F0%9F%95%B5%EF%B8%8F+Exploit+%7C+%F0%9F%94%90+Secure" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -93,8 +97,11 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 
 ### 🔥 Quote to Hack By
 
----
+<!-- START:QUOTE -->
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=39FF14&center=true&vCenter=true&width=800&lines=The%20quieter%20you%20become%2C%20the%20more%20you%20are%20able%20to%20hear." alt="Daily Quote" /></p>
+<!-- END:QUOTE -->
 
+---
 
 <details>
   <summary>📊 GitHub Stats</summary>
@@ -106,6 +113,7 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
   </p>
 
 </details>
-<!-- START:QUOTE -->
-> 
-<!-- END:QUOTE -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=90&section=footer&animation=fadeIn" width="100%" alt="footer divider"/>
+</p>
