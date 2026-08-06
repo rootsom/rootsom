@@ -1,0 +1,114 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#020a04"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#0dff5b" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="flicker">
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 1 0 0 0  0 0 0 0 0  0 0 0 1 0"/>
+    </filter>
+  </defs>
+
+  <style>
+    <![CDATA[
+    .col { font-family: 'Courier New', monospace; fill: #0dff5b; opacity: 0.55; }
+    .col tspan { fill: inherit; }
+    @keyframes fall {
+      0%   { transform: translateY(-260px); opacity: 0; }
+      10%  { opacity: 0.75; }
+      90%  { opacity: 0.75; }
+      100% { transform: translateY(300px); opacity: 0; }
+    }
+    .rain { animation-name: fall; animation-timing-function: linear; animation-iteration-count: infinite; }
+
+    @keyframes scan {
+      0%   { transform: translateY(-4px); }
+      100% { transform: translateY(284px); }
+    }
+    .scanline { animation: scan 3.2s linear infinite; }
+
+    @keyframes glitchShiftR {
+      0%, 88%, 100% { transform: translate(0,0); opacity: 0; }
+      89% { transform: translate(3px,-1px); opacity: 0.55; }
+      92% { transform: translate(-2px,1px); opacity: 0.4; }
+      94% { transform: translate(2px,0); opacity: 0; }
+    }
+    @keyframes glitchShiftB {
+      0%, 90%, 100% { transform: translate(0,0); opacity: 0; }
+      91% { transform: translate(-3px,1px); opacity: 0.55; }
+      93% { transform: translate(2px,-1px); opacity: 0.4; }
+      95% { transform: translate(-2px,0); opacity: 0; }
+    }
+    .gRed  { animation: glitchShiftR 5s infinite; fill: #ff2b4a; }
+    .gBlue { animation: glitchShiftB 5s infinite; fill: #2bd7ff; }
+
+    @keyframes flicker {
+      0%, 91%, 100% { opacity: 1; }
+      92% { opacity: 0.2; }
+      93% { opacity: 1; }
+      94% { opacity: 0.4; }
+      95% { opacity: 1; }
+    }
+    .title { fill: #39FF14; font-family: 'Courier New', monospace; font-weight: 700; animation: flicker 5s infinite; }
+
+    @keyframes cursorBlink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    .cursor { animation: cursorBlink 1s steps(1) infinite; fill: #39FF14; }
+
+    @keyframes fadeType {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    .subline { fill: #0dff5b; font-family: 'Courier New', monospace; opacity: 0.85; }
+    .tag1 { animation: fadeType 0.6s ease-in 0.2s both; }
+    .tag2 { animation: fadeType 0.6s ease-in 0.8s both; }
+    .tag3 { animation: fadeType 0.6s ease-in 1.4s both; }
+    ]]>
+  </style>
+
+  <rect width="1200" height="280" fill="url(#bgGrad)"/>
+  <rect width="1200" height="280" fill="url(#glow)"/>
+
+  <!-- matrix rain columns -->
+  <g font-size="16">
+    <text class="col rain" x="10"   y="0" style="animation-duration:6.2s; animation-delay:-1.1s">01 </text>
+    <text class="col rain" x="45"   y="0" style="animation-duration:5.4s; animation-delay:-3.4s">1A </text>
+    <text class="col rain" x="80"   y="0" style="animation-duration:7.1s; animation-delay:-0.6s">FF </text>
+    <text class="col rain" x="115"  y="0" style="animation-duration:5.9s; animation-delay:-2.2s">0x </text>
+    <text class="col rain" x="150"  y="0" style="animation-duration:6.6s; animation-delay:-4.1s">7E </text>
+    <text class="col rain" x="185"  y="0" style="animation-duration:5.2s; animation-delay:-1.8s">C2 </text>
+    <text class="col rain" x="220"  y="0" style="animation-duration:6.9s; animation-delay:-3.0s">9B </text>
+    <text class="col rain" x="255"  y="0" style="animation-duration:5.7s; animation-delay:-0.3s">42 </text>
+    <text class="col rain" x="960"  y="0" style="animation-duration:6.0s; animation-delay:-2.6s">D4 </text>
+    <text class="col rain" x="995"  y="0" style="animation-duration:5.5s; animation-delay:-1.4s">A1 </text>
+    <text class="col rain" x="1030" y="0" style="animation-duration:7.3s; animation-delay:-3.9s">FE </text>
+    <text class="col rain" x="1065" y="0" style="animation-duration:6.4s; animation-delay:-0.9s">3C </text>
+    <text class="col rain" x="1100" y="0" style="animation-duration:5.8s; animation-delay:-2.0s">88 </text>
+    <text class="col rain" x="1135" y="0" style="animation-duration:6.7s; animation-delay:-4.4s">0F </text>
+    <text class="col rain" x="1170" y="0" style="animation-duration:5.3s; animation-delay:-1.6s">B7 </text>
+  </g>
+
+  <!-- scanline -->
+  <rect class="scanline" x="0" y="0" width="1200" height="2" fill="#39FF14" opacity="0.15"/>
+
+  <!-- glitch title stack -->
+  <g transform="translate(600,140)">
+    <text class="gRed"  x="0" y="0" font-size="58" text-anchor="middle">root@som</text>
+    <text class="gBlue" x="0" y="0" font-size="58" text-anchor="middle">root@som</text>
+    <text class="title" x="0" y="0" font-size="58" text-anchor="middle">root@som</text>
+    <rect class="cursor" x="168" y="-46" width="14" height="50"/>
+  </g>
+
+  <!-- subtitle terminal lines -->
+  <g font-size="18" text-anchor="middle">
+    <text class="subline tag1" x="600" y="185">$ whoami</text>
+    <text class="subline tag2" x="600" y="212">&gt; ghost in the machine // access: root</text>
+    <text class="subline tag3" x="600" y="239">&gt; payloads compiled. logs wiped. shell open.</text>
+  </g>
+</svg>
