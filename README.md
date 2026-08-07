@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rootsom/rootsom/main/banner.png" alt="rootsom banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/rootsom/rootsom/main/banner.svg" alt="rootsom banner" width="100%" />
 </p>
 
 <h1 align="center">💀 rootsom | Cybersecurity Professional & Red Teamer</h1>
@@ -20,9 +20,7 @@
   <img src="https://img.shields.io/badge/CTF%20Builder-Labs%20%26%20Writeups-9cf?style=for-the-badge&logo=ghost&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=90&section=header&animation=fadeIn" width="100%" alt="divider"/>
-</p>
+---
 
 ### 👋 Welcome
 
@@ -113,7 +111,3 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
   </p>
 
 </details>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=90&section=footer&animation=fadeIn" width="100%" alt="footer divider"/>
-</p>
