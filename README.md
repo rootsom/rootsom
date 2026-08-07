@@ -98,7 +98,7 @@ I'm **rootsom**, a cybersecurity researcher and red teamer with over **6 years o
 ### 🔥 Quote to Hack By
 
 <!-- START:QUOTE -->
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=39FF14&center=true&vCenter=true&width=800&lines=The%20quieter%20you%20become%2C%20the%20more%20you%20are%20able%20to%20hear." alt="Daily Quote" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=39FF14&center=true&vCenter=true&width=800&lines=%22Cybersecurity%20is%20not%20about%20keeping%20bad%20people%20out%2C%20it%E2%80%99s%20about%20knowing%20when%20they%20are%20in.%22%20%E2%80%93%20Unknown" alt="Daily Quote" /></p>
 <!-- END:QUOTE -->
 
 ---
