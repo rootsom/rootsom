@@ -128,10 +128,9 @@ build labs, automate attacks, break things (safely, with permission).
   <img src="https://raw.githubusercontent.com/rootsom/rootsom/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake" />
 </p>
 
-<sub>⚙️ Needs a one-time setup — drop the included <code>snake.yml</code> into <code>.github/workflows/</code> on this repo (details in the message below the file). Until then this image will just show broken.</sub>
 
 <details>
-  <summary>📊 `htop --github`</summary>
+  <summary>📊 htop --github</summary>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rootsom&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=0dff5b" />
