@@ -117,7 +117,7 @@ build labs, automate attacks, break things (safely, with permission).
 ### 🔥 `tail -f quotes.log`
 
 <!-- START:QUOTE -->
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=39FF14&center=true&vCenter=true&width=800&lines=%E2%80%9CAmateurs%20hack%20systems%2C%20professionals%20hack%20people.%E2%80%9D%20%E2%80%94%20Bruce%20Schneier" alt="Daily Quote" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=39FF14&center=true&vCenter=true&width=800&lines=%22Hackers%20don%E2%80%99t%20break%20laws%2C%20they%20break%20code.%22%20%E2%80%93%20Anonymous" alt="Daily Quote" /></p>
 <!-- END:QUOTE -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0dff5b&height=3&section=header&animation=fadeIn" alt="divider"/>
